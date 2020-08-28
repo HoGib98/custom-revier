@@ -1,3 +1,3 @@
 # Listen
-1. Create a filder Magetop/ReviewManagement 
-2. -> g.i.t c.l.o.n.e
+1. Create a folder Magetop/ReviewManagement 
+2. <g.i.t>_<c.l.o.n.e>
