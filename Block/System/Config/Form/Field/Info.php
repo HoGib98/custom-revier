@@ -31,7 +31,7 @@ class Info extends \Magento\Config\Block\System\Config\Form\Field
     protected function _getElementHtml(AbstractElement $element)
     {
         $html = '<div style="background: #EF432E;padding: 10px;border-radius: 5px;text-align: center">
-                    <a target="_blank" href="https://www.magetop.com/magento-extensions.html" style="color: #fff">Magetop - Marketplace Extensions</a>
+                    <a target="_blank" href="#" style="color: #fff">Code by nguyễn Thế Hổ contact to zalo : 0859775395</a>
                 </div>';
         
         return $html;
